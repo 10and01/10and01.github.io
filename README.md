@@ -1,32 +1,22 @@
-# Drluffy
+<div align="center">
+  <img src="./image.svg" alt="Icon" width="256" height="256" />
+</div>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
+<div align="center">
+  <img src="./demo.png" alt="demo" />
+</div>
+<p align="center">中文  |  <a title="English" href="README.en.md">English</a></p>
+
 
 `Drluffy` 是一个可部署到 GitHub Pages 的未来科技风个人网站，基于原生 `HTML/CSS/JavaScript`。
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
-  <!-- 深色科技底板 -->
-  <rect width="128" height="128" rx="24" fill="#0A101F"/>
-  
-  <!-- 粒子光环（代表粒子背景） -->
-  <circle cx="64" cy="64" r="56" stroke="#1A2035" stroke-width="2" fill="none"/>
-  <g fill="#00EEFF">
-    <circle cx="64" cy="8" r="3"/>
-    <circle cx="104" cy="32" r="2.5"/>
-    <circle cx="120" cy="64" r="3"/>
-    <circle cx="104" cy="96" r="2.5"/>
-    <circle cx="64" cy="120" r="3"/>
-    <circle cx="24" cy="96" r="2.5"/>
-    <circle cx="8" cy="64" r="3"/>
-    <circle cx="24" cy="32" r="2.5"/>
-  </g>
-
-  <!-- 核心字母 D + 科技切角 -->
-  <path d="M40 32h16a24 24 0 0 1 0 64H40V32z" fill="none" stroke="#00EEFF" stroke-width="5" stroke-linecap="round"/>
-  <path d="M56 32v64" stroke="#9D5CFF" stroke-width="4" stroke-linecap="round"/>
-  
-  <!-- CLI 命令提示符 > + 导航箭头（代表CLI工具+多页面导航） -->
-  <path d="M84 48l12 16-12 16M96 64H76" stroke="#00EEFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-  
-</svg>
 ## 功能
 
 - 科技感背景 + 鼠标跟随粒子特效
