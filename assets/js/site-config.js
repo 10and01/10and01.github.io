@@ -20,19 +20,19 @@ const defaultConfig = {
     nightMobile: 70,
   },
   wallpaper: {
-    day: "",
-    night: "",
-    default: "",
+    day: "assets/images/wallpapers/day.png",
+    night: "assets/images/wallpapers/night.jpg",
+    default: "assets/images/wallpapers/default.jpg",
   },
   gallery: [],
   greetings: ["Hi", "Hello"],
   cat: {
-    svg: "",
+    svg: "/assets/images/cat/cat.svg",
   },
   visits: {
     enabled: true,
     provider: "countapi",
-    namespace: "drluffy",
+    namespace: "10WTW01",
     key: "site",
   },
 };

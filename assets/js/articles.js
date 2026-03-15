@@ -162,7 +162,7 @@ export async function renderArticleDetailPage() {
   }
 
   const { html: updatedHtml, toc } = buildToc(html);
-  document.title = `${article.title} | Drluffy`;
+  document.title = `${article.title} | 10WTW01`;
 
   container.innerHTML = `
     <header>

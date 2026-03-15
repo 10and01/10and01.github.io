@@ -42,7 +42,7 @@ export async function setupVisitCounter(config) {
   try {
     let value;
     if (provider === "countapi") {
-      const namespace = config?.visits?.namespace || "drluffy";
+      const namespace = config?.visits?.namespace || "10WTW01";
       const key = config?.visits?.key || "site";
       value = await fetchCountApi(namespace, key);
     } else {
